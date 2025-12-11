@@ -2,7 +2,7 @@
 
 Kalorienzähler ist eine deutsch entwickelte Ernährungs-App für iOS und Android. Sie basiert auf einer umfassenden deutschen Lebensmitteldatenbank und wurde geschaffen, um einen klaren Überblick über Energieaufnahme und -verbrauch zu bieten. Über tausend Nutzer haben ihre Ziele mit Hilfe der App erreicht, und weltweit erzielt sie eine Bewertung von durchschnittlich 4,8 Sternen. Das Team hinter der Lösung hat seinen Sitz in Berlin, wo es laufend an Verbesserungen und Nutzer-Support arbeitet.
 
-Die App ist unter [https://kalorienzaehler.de/](https://kalorienzahler.de/) verfügbar.
+Die App ist unter [https://kalorienzahler.de/](https://kalorienzahler.de/) verfügbar.
 
 ## Funktionen, die den Nutzer durch den Tag begleiten
 
